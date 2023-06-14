@@ -1,0 +1,2 @@
+Diseñe una pagina web de cotillon con productos led y neon, buscando colores que se adapten a esa tematica.
+Me hubiera gustado agregar mas cosas pero por falta de tiempo personal, y dificultades con js es todo lo que pude progresar.
